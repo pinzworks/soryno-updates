@@ -1,19 +1,65 @@
 {
   "schema": 2,
   "eq": {
-    "pro":  { "version": "1.0.2", "url": "https://pinzu.booth.pm/items/8798528", "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, damaged preset files are moved aside instead of overwritten, and presets made in the free edition are carried over. The update notice is now a card. The sound is bit-identical to 1.0.0." },
-    "free": { "version": "1.0.2", "url": "https://pinzu.booth.pm/items/8727679", "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, and damaged preset files are moved aside instead of overwritten. The update notice is now a card. The sound is bit-identical to 1.0.0." }
+    "pro": {
+      "version": "1.0.2",
+      "url": "https://pinzu.booth.pm/items/8798528",
+      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, damaged preset files are moved aside instead of overwritten, and presets made in the free edition are carried over. The update notice is now a card. The sound is bit-identical to 1.0.0."
+    },
+    "free": {
+      "version": "1.0.2",
+      "url": "https://pinzu.booth.pm/items/8727679",
+      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, and damaged preset files are moved aside instead of overwritten. The update notice is now a card. The sound is bit-identical to 1.0.0."
+    }
   },
   "comp": {
-    "pro":  { "version": "1.0.2", "url": "https://pinzu.booth.pm/items/8798565", "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Gain-reduction meters now fall back at the same rate as LIMIT and DEESS. Failed preset saves are reported, damaged preset files are moved aside, and presets made in the free edition are carried over. The sound is bit-identical to 1.0.0." },
-    "free": { "version": "1.0.2", "url": "https://pinzu.booth.pm/items/8728668", "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Gain-reduction meters now fall back at the same rate as LIMIT and DEESS. Failed preset saves are reported and damaged preset files are moved aside. The sound is bit-identical to 1.0.0." }
+    "pro": {
+      "version": "1.0.2",
+      "url": "https://pinzu.booth.pm/items/8798565",
+      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Gain-reduction meters now fall back at the same rate as LIMIT and DEESS. Failed preset saves are reported, damaged preset files are moved aside, and presets made in the free edition are carried over. The sound is bit-identical to 1.0.0."
+    },
+    "free": {
+      "version": "1.0.2",
+      "url": "https://pinzu.booth.pm/items/8728668",
+      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Gain-reduction meters now fall back at the same rate as LIMIT and DEESS. Failed preset saves are reported and damaged preset files are moved aside. The sound is bit-identical to 1.0.0."
+    }
   },
   "limit": {
-    "pro":  { "version": "1.0.2", "url": "https://pinzu.booth.pm/items/8798581", "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, damaged preset files are moved aside instead of overwritten, and presets made in the free edition are carried over. The update notice is now a card. The sound is bit-identical to 1.0.0." },
-    "free": { "version": "1.0.2", "url": "https://pinzu.booth.pm/items/8728777", "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, and damaged preset files are moved aside instead of overwritten. The update notice is now a card. The sound is bit-identical to 1.0.0." }
+    "pro": {
+      "version": "1.0.2",
+      "url": "https://pinzu.booth.pm/items/8798581",
+      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, damaged preset files are moved aside instead of overwritten, and presets made in the free edition are carried over. The update notice is now a card. The sound is bit-identical to 1.0.0."
+    },
+    "free": {
+      "version": "1.0.2",
+      "url": "https://pinzu.booth.pm/items/8728777",
+      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, and damaged preset files are moved aside instead of overwritten. The update notice is now a card. The sound is bit-identical to 1.0.0."
+    }
   },
   "deess": {
-    "pro":  { "version": "1.0.2", "url": "https://pinzu.booth.pm/items/8798588", "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, damaged preset files are moved aside instead of overwritten, and presets made in the free edition are carried over. The update notice is now a card. The sound is bit-identical to 1.0.0." },
-    "free": { "version": "1.0.2", "url": "https://pinzu.booth.pm/items/8728858", "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, and damaged preset files are moved aside instead of overwritten. The update notice is now a card. The sound is bit-identical to 1.0.0." }
+    "pro": {
+      "version": "1.0.2",
+      "url": "https://pinzu.booth.pm/items/8798588",
+      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, damaged preset files are moved aside instead of overwritten, and presets made in the free edition are carried over. The update notice is now a card. The sound is bit-identical to 1.0.0."
+    },
+    "free": {
+      "version": "1.0.2",
+      "url": "https://pinzu.booth.pm/items/8728858",
+      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, and damaged preset files are moved aside instead of overwritten. The update notice is now a card. The sound is bit-identical to 1.0.0."
+    }
+  },
+  "tape": {
+    "free": {
+      "version": "1.0.0",
+      "url": "https://pinzu.booth.pm/items/8837676",
+      "notes": "First release. Tape saturation with a transfer curve you can watch, a tape tone curve and a before/after level view. 2x oversampling is included in the free edition."
+    }
+  },
+  "clip": {
+    "free": {
+      "version": "1.0.0",
+      "url": "https://pinzu.booth.pm/items/8877318",
+      "notes": "First release. A clipper that draws what it removed on top of the waveform, with a ceiling the clipped path never goes above, three corner shapes, parallel mix and attenuate-only auto gain."
+    }
   }
 }
