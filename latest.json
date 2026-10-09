@@ -2,50 +2,50 @@
   "schema": 2,
   "eq": {
     "pro": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "url": "https://pinzu.tech/pinzuaudio/support/#update",
-      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, damaged preset files are moved aside instead of overwritten, and presets made in the free edition are carried over. The update notice is now a card. The sound is bit-identical to 1.0.0.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. A SORYNO button opens the other plug-ins. The sound is bit-identical to 1.0.2.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     },
     "free": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "url": "https://pinzu.tech/pinzuaudio/products/eq/#get-free",
-      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, and damaged preset files are moved aside instead of overwritten. The update notice is now a card. The sound is bit-identical to 1.0.0."
+      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. The window is slightly wider. A SORYNO button opens the other plug-ins, and Get PRO opens the product page. The sound is bit-identical to 1.0.2."
     }
   },
   "comp": {
     "pro": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "url": "https://pinzu.tech/pinzuaudio/support/#update",
-      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Gain-reduction meters now fall back at the same rate as LIMIT and DEESS. Failed preset saves are reported, damaged preset files are moved aside, and presets made in the free edition are carried over. The sound is bit-identical to 1.0.0.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B, and latency is reported correctly when LOOKAHEAD changes while bypassed. A SORYNO button opens the other plug-ins. The sound is bit-identical to 1.0.2.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     },
     "free": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "url": "https://pinzu.tech/pinzuaudio/products/comp/#get-free",
-      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Gain-reduction meters now fall back at the same rate as LIMIT and DEESS. Failed preset saves are reported and damaged preset files are moved aside. The sound is bit-identical to 1.0.0."
+      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins, and Get PRO opens the product page. The sound is bit-identical to 1.0.2."
     }
   },
   "limit": {
     "pro": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "url": "https://pinzu.tech/pinzuaudio/support/#update",
-      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, damaged preset files are moved aside instead of overwritten, and presets made in the free edition are carried over. The update notice is now a card. The sound is bit-identical to 1.0.0.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins. The sound is bit-identical to 1.0.2.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     },
     "free": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "url": "https://pinzu.tech/pinzuaudio/products/limit/#get-free",
-      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, and damaged preset files are moved aside instead of overwritten. The update notice is now a card. The sound is bit-identical to 1.0.0."
+      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins, and Get PRO opens the product page. The sound is bit-identical to 1.0.2."
     }
   },
   "deess": {
     "pro": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "url": "https://pinzu.tech/pinzuaudio/support/#update",
-      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, damaged preset files are moved aside instead of overwritten, and presets made in the free edition are carried over. The update notice is now a card. The sound is bit-identical to 1.0.0.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins. The sound is bit-identical to 1.0.2.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     },
     "free": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "url": "https://pinzu.tech/pinzuaudio/products/deess/#get-free",
-      "notes": "Right-click now works anywhere on the window - that is where the update-check switch lives. Failed preset saves are reported instead of being silent, and damaged preset files are moved aside instead of overwritten. The update notice is now a card. The sound is bit-identical to 1.0.0."
+      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins, and Get PRO opens the product page. The sound is bit-identical to 1.0.2."
     }
   },
   "tape": {
