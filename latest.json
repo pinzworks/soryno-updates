@@ -53,6 +53,11 @@
       "version": "1.0.0",
       "url": "https://pinzu.tech/pinzuaudio/products/tape/#get-free",
       "notes": "First release. Tape saturation with a transfer curve you can watch, a tape tone curve and a before/after level view. 2x oversampling is included in the free edition."
+    },
+    "pro": {
+      "version": "1.0.0",
+      "url": "https://pinzu.tech/pinzuaudio/support/#update",
+      "notes": "First release of the Pro edition. It adds tape speed, bias, wow and flutter, band limits for the saturation, Mid/Side, 4x and 8x oversampling, and 44 presets. User presets made in the free edition are carried over.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     }
   },
   "clip": {
