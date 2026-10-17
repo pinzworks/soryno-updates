@@ -2,69 +2,69 @@
   "schema": 2,
   "eq": {
     "pro": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://pinzu.tech/pinzuaudio/support/#update",
-      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. A SORYNO button opens the other plug-ins. The sound is bit-identical to 1.0.2.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The sound is bit-identical to 1.0.3.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     },
     "free": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://pinzu.tech/pinzuaudio/products/eq/#get-free",
-      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. The window is slightly wider. A SORYNO button opens the other plug-ins, and Get PRO opens the product page. The sound is bit-identical to 1.0.2."
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The sound is bit-identical to 1.0.3."
     }
   },
   "comp": {
     "pro": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://pinzu.tech/pinzuaudio/support/#update",
-      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B, and latency is reported correctly when LOOKAHEAD changes while bypassed. A SORYNO button opens the other plug-ins. The sound is bit-identical to 1.0.2.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The GR readout holds the deepest value for 1 s. The sound is bit-identical to 1.0.3.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     },
     "free": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://pinzu.tech/pinzuaudio/products/comp/#get-free",
-      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins, and Get PRO opens the product page. The sound is bit-identical to 1.0.2."
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The GR readout holds the deepest value for 1 s. The sound is bit-identical to 1.0.3."
     }
   },
   "limit": {
     "pro": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://pinzu.tech/pinzuaudio/support/#update",
-      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins. The sound is bit-identical to 1.0.2.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The GR readout holds the deepest value for 1 s, and the loudness numbers update more slowly. The sound is bit-identical to 1.0.3.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     },
     "free": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://pinzu.tech/pinzuaudio/products/limit/#get-free",
-      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins, and Get PRO opens the product page. The sound is bit-identical to 1.0.2."
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The GR readout holds the deepest value for 1 s, and the loudness numbers update more slowly. The sound is bit-identical to 1.0.3."
     }
   },
   "deess": {
     "pro": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://pinzu.tech/pinzuaudio/support/#update",
-      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins. The sound is bit-identical to 1.0.2.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The GR readout holds the deepest value for 1 s and matches the REDUCTION number. The sound is bit-identical to 1.0.3.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     },
     "free": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "url": "https://pinzu.tech/pinzuaudio/products/deess/#get-free",
-      "notes": "A/B now carries the preset name with each slot, and switching A/B or copying A>B marks the project as changed so your DAW asks to save. Loading a user preset no longer clears Undo, picking the same preset again reloads it, and tooltips now appear. BYPASS is no longer swapped by A/B. A SORYNO button opens the other plug-ins, and Get PRO opens the product page. The sound is bit-identical to 1.0.2."
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The GR readout holds the deepest value for 1 s and matches the REDUCTION number. The sound is bit-identical to 1.0.3."
     }
   },
   "tape": {
     "free": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://pinzu.tech/pinzuaudio/products/tape/#get-free",
-      "notes": "First release. Tape saturation with a transfer curve you can watch, a tape tone curve and a before/after level view. 2x oversampling is included in the free edition."
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The sound is bit-identical to 1.0.0."
     },
     "pro": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://pinzu.tech/pinzuaudio/support/#update",
-      "notes": "First release of the Pro edition. It adds tape speed, bias, wow and flutter, band limits for the saturation, Mid/Side, 4x and 8x oversampling, and 44 presets. User presets made in the free edition are carried over.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The sound is bit-identical to 1.0.0.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
     }
   },
   "clip": {
     "free": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://pinzu.tech/pinzuaudio/products/clip/#get-free",
-      "notes": "First release. A clipper that draws what it removed on top of the waveform, with a ceiling the clipped path never goes above, three corner shapes, parallel mix and attenuate-only auto gain."
+      "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The sound is bit-identical to 1.0.0."
     }
   }
 }
