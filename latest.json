@@ -66,5 +66,12 @@
       "url": "https://pinzu.tech/pinzuaudio/products/clip/#get-free",
       "notes": "Larger text and numbers in the graphs and meters, and meter readouts that change slowly enough to read (a new high is shown at once and held for 1 s). A/B: the other slot now starts from the settings the plug-in was opened with. The window now opens at a size that fits laptop screens and remembers the size you choose. The sound is bit-identical to 1.0.0."
     }
+  },
+  "meter": {
+    "free": {
+      "version": "1.0.0",
+      "url": "https://pinzu.tech/pinzuaudio/products/meter/#get-free",
+      "notes": "First release. A loudness meter (ITU-R BS.1770-4 / EBU R128) that shows integrated, short-term and momentary loudness, LRA, true peak, sample peak, correlation and balance on one screen, with a target line and the parts above it painted amber. It never changes the sound."
+    }
   }
 }
