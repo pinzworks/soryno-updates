@@ -73,5 +73,19 @@
       "url": "https://pinzu.tech/pinzuaudio/products/meter/#get-free",
       "notes": "First release. A loudness meter (ITU-R BS.1770-4 / EBU R128) that shows integrated, short-term and momentary loudness, LRA, true peak, sample peak, correlation and balance on one screen, with a target line and the parts above it painted amber. It never changes the sound."
     }
+  },
+  "verb": {
+    "free": {
+      "version": "1.0.0",
+      "url": "https://pinzu.tech/pinzuaudio/products/verb/#get-free",
+      "notes": "First release. A reverb that paints amber where the tail of one note is still ringing under the next note, so you can see when it turns the mix muddy. Room, Hall and Plate, with low and high damping, plus views of the reverb's shape and tone."
+    }
+  },
+  "echo": {
+    "free": {
+      "version": "1.0.0",
+      "url": "https://pinzu.tech/pinzuaudio/products/echo/#get-free",
+      "notes": "First release. A tempo-synced delay that draws every repeat on the beat grid and paints amber the repeats that land on the next note, so you can see which echoes muddy the mix. Ping-pong from left or right."
+    }
   }
 }
