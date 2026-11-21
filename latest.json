@@ -87,5 +87,17 @@
       "url": "https://pinzu.tech/pinzuaudio/products/echo/#get-free",
       "notes": "First release. A tempo-synced delay that draws every repeat on the beat grid and paints amber the repeats that land on the next note, so you can see which echoes muddy the mix. Ping-pong from left or right."
     }
+  },
+  "synth": {
+    "free": {
+      "version": "1.0.0",
+      "url": "https://pinzu.tech/pinzuaudio/products/synth/#get-free",
+      "notes": "First release. SORYNO SYNTH is a synthesizer: two oscillators with sub and noise, four filter types, two ADSR envelopes, a pitch envelope, an LFO, 8-voice polyphony and 18 presets. A dot moves along the filter curve at the current cutoff, and a second dot travels along the ADSR line for the note that is sounding.\n\nHow to get it: the product page serves the download directly, or use your BOOTH purchase history.\n入手：製品ページからそのまま／BOOTH の購入履歴から"
+    },
+    "pro": {
+      "version": "1.0.0",
+      "url": "https://pinzu.tech/pinzuaudio/support/#update",
+      "notes": "First release of the Pro edition. It adds 16-voice polyphony, unison of 1 to 8 voices with detune and width, chorus, delay and reverb, the EASY SPACE knob, an arpeggiator that locks to the host tempo, and 140 presets. User presets made in the free edition are carried over.\n\nHow to get it: bought on pinzu.tech, use the download link in your Lemon Squeezy receipt email. Bought on BOOTH, use your BOOTH purchase history.\n入手：公式サイトで購入 → Lemon Squeezy の領収書メールのリンク ／ BOOTH で購入 → BOOTH の購入履歴"
+    }
   }
 }
